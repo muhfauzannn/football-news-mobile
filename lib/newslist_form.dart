@@ -28,7 +28,7 @@ class _NewsFormPageState extends State<NewsFormPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Center(child: Text('Form Tambah Berita')),
+        title: const Center(child: Text('Form Tambah Produk')),
         backgroundColor: Colors.indigo,
         foregroundColor: Colors.white,
       ),

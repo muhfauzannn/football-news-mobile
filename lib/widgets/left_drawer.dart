@@ -15,7 +15,7 @@ class LeftDrawer extends StatelessWidget {
             child: Column(
               children: [
                 Text(
-                  'Football News',
+                  'MU Shop',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 30,
